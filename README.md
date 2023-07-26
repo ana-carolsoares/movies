@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Biblioteca de Filmes
 
-Currently, two official plugins are available:
+Projeto com React, consumindo a API do TMDB (filmes), utilizando hooks e React Router, criado com Vite. Aplicação que mostra a lista dos filmes mais bem avaliados, permite visualizar os detalhes de cada um e ainda possibilita busca por títulos específicos. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+## Stack utilizada
+
+**Front-end:** React, Vite
+
+**APIs:** TMDB
+
+
+## Documentação
+
+[Documentação](https://developer.themoviedb.org/reference/intro/getting-started)
+
